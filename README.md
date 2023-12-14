@@ -1,4 +1,4 @@
-# App de Tutorías Universitarias
+# App de Tutorías Universitarias - UNDER DEVELOPMENT
 ### Espanol
 Esta es una aplicación móvil desarrollada con Flutter y Dart, diseñada para automatizar y digitalizar el proceso de solicitud de tutorías en la universidad. Este proyecto se enfoca en mejorar la experiencia estudiantil al proporcionar una interfaz fácil de usar para gestionar todo lo relacionado con las tutorías.
 
